@@ -1,0 +1,50 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url('../image/login/wow-background-1920.33kT6.jpg');
+  background-position: top center;
+}
+.logo{
+  width: 300px;
+  height: 65px;
+  margin: 50px auto 20px auto;
+  background-image: url('../image/login/china-default.1qc7L.png');
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.intro>li{
+  margin: 10px 0;
+}
+.intro>li a{
+  font-weight: bold;
+  color: #07A0FF;
+}
+.blzLogo{
+  display: inline-block;
+  width: 113px;
+  height: 58px;
+  background-image: url("../image/login/blizzard.0tuLw.png");
+}
+footer>div>div:nth-child(2) span{
+  color:#aaaaaa;
+}
+.keyIntro>li>a{
+  color: #aaaaaa;
+  font-size: 13px;
+}
+.imgIntro>a{
+  margin: 0 10px;
+  text-decoration: none;
+}
+.imgIntro>a:first-child{
+  margin-left: 45px;
+}
+footer{
+  margin-top: 220px;
+}
+footer p{
+  color:#8F7668;
+}
+.loginMain>p{
+  height: 30px;
+}
